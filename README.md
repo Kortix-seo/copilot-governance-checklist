@@ -2,7 +2,7 @@
 
 An open-source, forkable control map for a team moving Copilot agent governance out of the Microsoft 365 admin center and into configuration it owns and reviews.
 
-Kortix is the open-source AI Operating System: your agents, skills, company memory, and connectors in one git repo you own. This repository is the governance artifact that sentence implies. Twenty controls, each with what the Microsoft 365 admin center does for it and the file that implements the same control once the agent layer is configuration in a repository you keep. Fork it, delete the rows that do not apply, and hand the rest to a reviewer as evidence.
+Kortix is the open-source CompanyOS: your agents, skills, company memory, and connectors in one git repo you own. This repository is the governance artifact that sentence implies. Twenty controls, each with what the Microsoft 365 admin center does for it and the file that implements the same control once the agent layer is configuration in a repository you keep. Fork it, delete the rows that do not apply, and hand the rest to a reviewer as evidence.
 
 Kortix runs its own agents rather than Microsoft's, and the configuration surface named in the last column is a file in a git repository.
 
